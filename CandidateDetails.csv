@@ -1,0 +1,51 @@
+Candidate_Id,Requirement_Id,Candidate_Skills,Candidate_Years_Of_Experience,Candidate_Role,Candidate_City,Interview Feedback,Selected/ Rejected
+101,501,"Angular JS,CSS,Java, HTML 5,JQuery,JavaScript",4,Developer,Chennai,Good,Selected
+102,502,"ANSI SQL,JCL,Mainframe Utilities,VSAM",4,Developer,Kolkatta,Good,Selected
+103,503,".Net Framework,ADO.NET,ANSI SQL,ASP.NET,Entity Framework,MS SQL Server,WCF",6,Developer,Kolkata,Good,Selected
+104,504,"Business Rule Devlpmnt in Pega,PEGA BPM Process Modeling,Pega UI Development, Unix",6,Developer,Kolkata,Good,Selected
+105,505,"SQL Scripting,Teradata, PL/ SQL",4,Tech lead,Kolkata,Good,Selected
+106,506,"Oracle Performance Tuning,PL/SQL, MySQL, Unix, Oracle",4,Tech Lead,Chennai,Good,Selected
+107,506,"Oracle Performance Tuning,PL/SQL",5,Tech Lead,Chennai,Average,Rejected
+108,506,"Oracle Performance Tuning,PL/SQL, MySQL, Java",6,Architect,Chennai,Average,Rejected
+109,506,"Oracle Performance Tuning,PL/SQL, Unix",3,Developer,Chennai,Good,Rejected
+110,506,Oracle Performance Tuning,4,Developer,Delhi,Poor,Rejected
+111,507,"Core Java,Selenium, Javascript",4,Developer,Delhi,Good,Selected
+112,507,"Agile,Selenium, Testing",5,Tech Lead,Chennai,Poor,Rejected
+113,507,"Agile,Core Java, JSP",6,Architech,Delhi,Poor,Rejected
+114,507,"Agile,Eclipse, Java",7,Architect,Delhi,Average,Rejected
+115,507,"Agile,Core Java,Selenium, Javascript, Angular JS",8,Architect,Kolkatta,Poor,Rejected
+116,508,"Oracle,SQL Scripting,Unix  Scripting",5,Tech Lead,Delhi,Good,Selected
+117,508,"SQL Scripting,Unix  Scripting, PL/SQL",4,Developer,Delhi,Poor,Rejected
+118,508,"Oracle,SQL Scripting,Unix  Scripting, Core Java",5,Architect,Delhi,Average,Rejected
+119,508,"Oracle, MySQL",3,Developer,Kolkatta,Poor,Rejected
+120,508,"Core Java,Selenium, Javascript",8,Architect,Chennai,Good,Rejected
+121,509,"Hadoop, Mongo DB Administration,MySQL DB Administration,Perl, scripting",2,Developer,Chennai,Average,Selected
+122,509,"Hadoop, MySQL DB Administration,Perl, scripting",5,Developer,Hyderabad,Good,Rejected
+123,509,"Hadoop, Mongo DB Administration,Perl, scripting",2,Tech Lead,Chennai,Poor,Rejected
+124,509,"MySQL DB Administration,Perl, scripting",4,Tech Lead,Delhi,Poor,Rejected
+125,509,"Hadoop, Mongo DB Administration,MySQL DB Administration",3,Developer,Delhi,Good,Rejected
+126,510,"Apache Pig,HiveMind,IBM Infosphere Datastage admin,NoSQL,SQL Developer,SQL Scripting",7,Architect,Gurgaon,Good,Selected
+127,510,"Apache Pig,HiveMind,IBM Infosphere Datastage admin,NoSQL",5,Tech Lead,Chennai,Good,Rejected
+128,510,"Apache Pig,HiveMind,IBM Infosphere Datastage admin,SQL Scripting",5,Tech Lead,Delhi,Poor,Rejected
+129,510,"Apache Pig,HiveMindNoSQL,SQL Developer,SQL Scripting",6,Tech Lead,Delhi,Average,Rejected
+130,510,",IBM Infosphere Datastage admin,NoSQL,SQL Developer,SQL Scripting",7,Architect,Noida,Average,Rejected
+131,501,"Java,NodeJS,JavaScript,Neo4J",3,Developer,Chennai,Poor,Rejected
+132,501,"Angular JS,JavaScript,MongoDB",2,Developer,Delhi,Poor,Rejected
+133,501,"Java,Oracle,SQL Scripting,Unix  Scripting",4,Tech lead,Chennai,Poor,Rejected
+134,501,"Angular JS,CSS,HTML 5,JQuery,JavaScript",4,Tech lead,Chennai,Poor,Rejected
+135,502,"SQL Scripting,Teradata, PL/ SQL",4,Tech lead,Kolkatta,Average,Rejected
+136,502,"JCL,Mainframe Utilities,Core Java",3,Developer,Gurgaon,Poor,Rejected
+137,502,"Mainframe Utilities,VSAM, SQL Scripting",3,Developer,Kolkatta,Poor,Rejected
+138,502,"VSAM,Oracle,SQL Scripting,Unix  Scripting",2,Developer,Delhi,Poor,Rejected
+139,503,"Entity Framework,MS SQL Server,WCF, Teradata",6,Developer,Chennai,Poor,Rejected
+140,503,"ANSI SQL,ASP.NET,Entity Framework,MS SQL Server",5,Developer,Kolkata,Average,Rejected
+141,503,"ADO.NET,WCF,.Net FrameWork, Java,Mainframe Utilities",6,Developer,Delhi,Poor,Rejected
+142,503,"ADO.NET,ANSI SQL,ASP.NET,JavaScript,Jquery",5,Developer,Delhi,Poor,Rejected
+143,504,"Business Rule Devlpmnt in Pega,PEGA BPM Process Modeling,Pega UI Development, Unix",6,Tech lead,Chennai,Poor,Rejected
+144,504,"PEGA BPM Process Modeling,Pega UI Development, Unix",6,Tech lead,Gurgaon,Poor,Rejected
+145,504,"Pega UI Development, Unix, MySQL,Business Rule Devlpmnt in Pega",4,Developer,Delhi,Poor,Rejected
+146,504,"PEGA BPM Process Modeling,Unix,Core Java,Selenium",5,Developer,Chennai,Poor,Rejected
+147,505,"SQL Scripting,Teradata, PL/ SQL",3,Developer,Delhi,Poor,Rejected
+148,505,"MySQL,Core Java, PL/SQL",3,Developer,Gurgaon,Poor,Rejected
+149,505,"SQL Scripting,Teradata,AngularJS,NodeJS",5,Developer,Chennai,Average,Rejected
+150,505,"Teradata,ANSI SQL,ASP.NET",4,Developer,Delhi,Poor,Rejected

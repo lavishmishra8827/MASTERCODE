@@ -1,2 +1,2 @@
-# MASTERCODE
-master code full project
+# MasterCode
+MasterCode 2017 Project
